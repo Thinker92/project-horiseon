@@ -19,4 +19,4 @@ https://thinker92.github.io/project-horiseon/
 
 ## Contribution
 
-Made with ❤️ by [your name]
+Refactored by Vilson Apostolovski II
